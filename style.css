@@ -775,7 +775,7 @@ i:hover{
 
 }
 .skill-right-container:hover .blob-style{
-    transform: scale(1.5);
+    transform: scale(1.2);
     transition: 2s;
  
 
