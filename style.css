@@ -774,13 +774,7 @@ i:hover{
 
 
 }
-.skill-right-container:hover .blob-style{
-    transform: scale(1.2);
-    transition: 2s;
- 
 
-
-}
 
 .blob-style{
     position: absolute;
